@@ -2,9 +2,6 @@ body {
     font: 25px 'Montserrat',sans-serif;
     margin: 20px;
     font-weight: bold;
-    background-image: url(
-      'https://media.istockphoto.com/vectors/tictactoe-back-to-school-background-doodle-tic-tac-toe-game-pen-and-vector-id989794376?k=6&m=989794376&s=170667a&w=0&h=UfCb_Sznf2StGVPMB-BfsGQjETNollwzowH3eqNqSOw='
-    );
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.8);
